@@ -125,13 +125,17 @@ Material:
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EmissiveIntensity: 1
+    - _Emissive_Intensity: 1
     - _EnvironmentReflections: 1
     - _Float: 5.08
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
-    - _Noise_Scale: 10
+    - _Metallic_Contrast: 1
+    - _Metallic_Intensity: 0
+    - _Noise_Scale: 1
+    - _Normal_Strength: 1
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
@@ -139,6 +143,8 @@ Material:
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
+    - _Smoothness_Contrast: 0
+    - _Smoothness_Intensity: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
@@ -152,8 +158,8 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Tilling: {r: 1, g: 1, b: 0, a: 0}
-    - _Tint: {r: 0.0011876225, g: 1, b: 0, a: 1}
-    - _Tint_Noise: {r: 0.058490515, g: 1, b: 0.07849451, a: 1}
+    - _Tint: {r: 1, g: 1, b: 1, a: 1}
+    - _Tint_Noise: {r: 1, g: 1, b: 1, a: 1}
     - _Vector2: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
