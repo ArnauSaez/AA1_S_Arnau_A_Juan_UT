@@ -137,6 +137,8 @@ Material:
     - _Noise_Scale: 1
     - _Normal_Strength: 1
     - _OcclusionStrength: 1
+    - _Paper: 0.431
+    - _Paper_Alpha_Intenisty: 0.415
     - _Parallax: 0.005
     - _QueueControl: 0
     - _QueueOffset: 0
